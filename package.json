@@ -1,5 +1,5 @@
 {
-  "name": "medbuddy",
+  "name": "HMS ",
   "version": "1.0.0",
   "description": "A website which connects doctors, patients and services like ambulance provider",
   "main": "server.js",
@@ -24,6 +24,7 @@
     "express": "^4.17.1",
     "express-session": "^1.17.1",
     "helmet": "^4.3.1",
+    "medbuddy": "file:",
     "method-override": "^3.0.0",
     "mongoose": "^5.10.0",
     "multer-storage-cloudinary": "^4.0.0",
